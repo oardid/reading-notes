@@ -1,17 +1,14 @@
-# Heading 1
-Author: Omar Ardid
+# H1
+China's Spy Chip
 
-## Heading 2 
-Descripition: This is my reading notes for Lab 01 
-
-### Heading 3
+## Heading 2
 How is a hardware hack differnet than a software hack?
 
-#### Heading 4 
+### Heading 3 
 What are the two ways for spies to alter a computer's hardware?
 
-##### Heading 5
+#### Heading 4
 Explain how the hack worked.
 
-###### Heading 6
+##### Heading 5
 How were investiagtors able to trace the chips back to the source?
