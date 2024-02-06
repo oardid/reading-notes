@@ -1,6 +1,6 @@
 # *China's Spy Chip Class 01 Notes*
 
-## H2 How is a hardware hack differnet than a software hack?
+## How is a hardware hack differnet than a software hack?
 Hardware hacks are more difficult to pull off and potentially more devastating, promising the kind of long-term, stealth access that spy agenices are willing to invest millions of dollars and many years to get. Hardware Manipulation creates a real-world trail. Boards have serial nukbers that trace to specific factories.
 Software hack is downloading firmware that are meant to update harware components.
 
@@ -8,7 +8,7 @@ Software hack is downloading firmware that are meant to update harware component
 1. Interdiction.
 2. Seeding changes from the very beginning.
 
-#### Explain how the hack worked.
+#### H3 Explain how the hack worked.
 Interdiction consists of manipulating devices as they're in transit from manufacturer to constomer.
 Seeding attack would develop a deep understanding of a product's design, manipulationg components at the factory, and ensuring that doctored devices made it throught the global logistics chain to the desired location.
 
