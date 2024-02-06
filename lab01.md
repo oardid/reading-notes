@@ -6,6 +6,7 @@ Software hack is downloading firmware that are meant to update harware component
 
 ### What are the two ways for spies to alter a computer's hardware?
 Interdiction.
+
 Seeding changes from the very beginning.
 
 #### Explain how the hack worked.
