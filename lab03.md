@@ -9,3 +9,5 @@ Checks the computer systems internal hardware components for compatibility, conn
 Complementary Metal Oxide Semiconductor. Type of technology used to produce intergarted circuits. CMOS chip is used to store the critical data used by the operating system during the booting process.
 ### What is the CMOS battery?
 CMOS battery retains stored data (BIOS settings) even after the computer is turned off. The CMOS battery is used on the motherboard to supply power to CMOS RAM which stores user settings and other data required duing booting.
+### Source
+https://www.learncomputerscienceonline.com/bios/
