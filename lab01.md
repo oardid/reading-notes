@@ -1,4 +1,4 @@
-# China's Spy Chip Class 01 Notes
+# *China's Spy Chip Class 01 Notes*
 
 ## How is a hardware hack differnet than a software hack?
 
