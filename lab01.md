@@ -16,3 +16,6 @@ Seeding attack would develop a deep understanding of a product's design, manipul
 
 ##### How were investiagtors able to trace the chips back to the source?
 Inverstiagtors were able to trace the chips back to the source by there serial numbers.
+
+###### Source
+https://web.archive.org/web/20190330085155/https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies
