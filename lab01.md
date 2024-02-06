@@ -11,6 +11,7 @@ Seeding.
 
 #### Explain how the hack worked.
 Interdiction consists of manipulating devices as they're in transit from manufacturer to customer.
+
 Seeding attack would develop a deep understanding of a product's design, manipulationg components at the factory, and ensuring that doctored devices made it throught the global logistics chain to the desired location.
 
 ##### How were investiagtors able to trace the chips back to the source?
