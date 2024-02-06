@@ -1,6 +1,6 @@
 # *China's Spy Chip Class 01 Notes*
 
-## How is a hardware hack differnet than a software hack?
+## H2 How is a hardware hack differnet than a software hack?
 Hardware hacks are more difficult to pull off and potentially more devastating, promising the kind of long-term, stealth access that spy agenices are willing to invest millions of dollars and many years to get. Hardware Manipulation creates a real-world trail. Boards have serial nukbers that trace to specific factories.
 Software hack is downloading firmware that are meant to update harware components.
 
