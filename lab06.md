@@ -18,3 +18,4 @@
 ### Does the WRT54GL model still get updates from Linksys?
 
 ### Source
+https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/
