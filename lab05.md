@@ -1,4 +1,4 @@
-# Readings: Installing Virtualbox with Linux Terminal Class Notes 05
+# Installing Virtualbox with Linux Terminal Class Notes 05
 ### Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
 Shell, terminal, cli, and command prompt are different ways of asking you to open a terminal to get to a shell. The speed and efficiency is one reason why text interface is still widely used today.
 ### What are the commands to change directories, list the file’s contents and rename/move files?
