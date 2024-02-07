@@ -7,3 +7,5 @@ The command to change directories is "cd" (change directory). The command for li
 Relative paths is your current working directory. Absolute paths are any paths that starts with a foward slash to switch the root directory. Starting with ~ (tilde) at the start of your path similarly means "starting from my home directory". Starting with "/" at the start of your path mean "starting from the root directory".
 ### Explain what Linux is, using anything except English.
 Linux es un tipo de sistema para la computadora.
+### Source
+https://ubuntu.com/tutorials/command-line-for-beginners
