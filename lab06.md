@@ -16,6 +16,6 @@ Bill gates
 ### Why doesn’t the WRT54GL model need to be modified to abide by the new FCC rules?
 
 ### Does the WRT54GL model still get updates from Linksys?
-
+Still gets occasional software updatess from Linksys
 ### Source
 https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/
