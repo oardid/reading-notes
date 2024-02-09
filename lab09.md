@@ -1,4 +1,4 @@
-# Command Line Interface
+# Command Line Interface Class Notes 09
 ### What is the Command Prompt?
 A window program the emulates many of the command line abilities.
 ### How do I access the Command Prompt?
