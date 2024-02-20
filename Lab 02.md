@@ -1,6 +1,6 @@
 # Dev Tools Class Notes 02
 ## What is the primary function of a shell in a computer’s operating system?
-To run other applications that are installed on the same system.
+Computers that operates outside of the kernel and allows humans to interact with the computer whenever they want to.
 ## How does Bash locate and execute commands on a Linux or Unix system?
 Bash is also a command, and usually the default command executed when you open a terminal window or log into a text console.
 ## How can you determine if your system is running a Bash shell?
