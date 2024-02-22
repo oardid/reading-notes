@@ -1,6 +1,6 @@
 ## Troubleshooting Techniques
 ## What should you do if multiple issues are happening simultaneously during troubleshooting?
-it might be worthwhile to break those up into individual problems and then go through this same troubleshooting process with each one of those individually.
+Break those up into individual problems and then go through this same troubleshooting process with each one of those individually.
 ## What should be done once a successful solution has been identified during the troubleshooting process?
 
 ## What are the benefits of documenting the entire troubleshooting process in a knowledge base?
