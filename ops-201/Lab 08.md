@@ -8,6 +8,6 @@ When you're looking for options that aren't normally exposed in Windows
 ## What are some common tasks you can perform by editing the Windows Registry?
 You can edit the registry by downloading and running .reg files, which contain a change that's applied when you run them
 ## Imagine you’re explaining the concept of the Windows Registry to someone who has never used a computer before. How would you make this explanation culturally relevant and relatable to their life experiences or background?
-Windows Registry is a program that you can see what is stored inside your computer, that windows don't usally show
+Windows Registry is a program that you can see what is stored inside your computer, that windows don't usually show
 ## Source
 https://www.howtogeek.com/370022/windows-registry-demystified-what-you-can-do-with-it/
