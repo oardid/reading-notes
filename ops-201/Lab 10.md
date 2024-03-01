@@ -8,6 +8,6 @@ It refers to the policies, procedures, and methods laid out in an organizationâ€
 ## What is cloud backup and recovery, and how does it enhance data security?
 Cloud backup and recovery is the process of backing up data and applications from an organizationâ€™s endpoints to the cloud, then restoring the files and information if an emergency occurs. Cloud backups provide an additional layer of security since data is off-premise and in the cloud.
 ## In some cultures, the concept of data privacy is highly valued, while in others, sharing information openly is considered normal. How might these cultural norms affect the way individuals approach data backup and disaster data recovery? Provide examples to support your response.
-In cultures that data privacy is highly valued would approach data backup and disaster data recovery very careful because they would be worried about where there information going to. While in others, the concept of sharing information would approach 
+In cultures that data privacy is highly valued would approach data backup and disaster data recovery very careful because they would be worried about where there information going to. For exmaple if there data privacy they would be on there toes about everything even back ups.
 ## Source
 https://www.ninjaone.com/blog/what-is-backup-and-disaster-recovery-and-why-do-you-need-it/
