@@ -8,3 +8,4 @@ In a warehouse, there were often issues with products, such as receiving the wro
 ## What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
 Profitability increases when workers are persuaded to collaborate more.
 ## Source
+https://web.archive.org/web/20221125192300/https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
