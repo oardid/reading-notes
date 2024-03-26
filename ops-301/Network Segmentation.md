@@ -14,8 +14,8 @@ It will give us a range of 10.0.0.0-10.0.0.255, which is just 256 (or 2⁸) IP a
 ### In your own words, describe network segmentation.
 Networks spearated by firewalls, switches and routers
 ### Network segmentation isn’t important as long as the network is using a well configured firewall. Do you agree? Why or why not?
-
+Network segmentation is important because it protects your asstes more effectively 
 ### What is a screened subnet?
-
+Subnetworks that expose externally facing systems - where the handshakes take place on your network.
 ### Cameras, ID card scanners, locked doors and biometrics are just a few examples of what type of security?
 Traditional physical security
