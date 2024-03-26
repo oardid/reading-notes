@@ -1,5 +1,5 @@
 # ***Network scanning with NMAP***
-## [**What is a Port Scanner and How Does it Work?**](https://www.varonis.com/blog/port-scanning-techniques)
+## [***What is a Port Scanner and How Does it Work?***](https://www.varonis.com/blog/port-scanning-techniques)
 ### What is a port? Describe it with an analogy that would help a family member understand.
 A port is a virtual location where networking communication starts and ends. Think of a port like a warehouse. Semi-trucks come into the warehouse to load and unload product. A computer does the same but with data flowing in and out.
 ### What does a port scanner send to a port to check the current status?
@@ -11,7 +11,7 @@ TCP or UDP port on a computer and records the response
 ### What is the difference between TCP and UDP?
 TCP and UDP are the two most common protocols in use for Internet Protocol (IP) network.
 TCP sends each packet in order, complete with error chekcing, verification, and a 3-way handshake to confirm each packet is successful. UDP is a connectionless protocol, so programs that use UDP just send the data - and if you miss a packet, you will never get it again.
-## [**Common Ports**](https://www.professormesser.com/network-plus/n10-008/n10-008-video/common-ports-n10-008/)
+## [***Common Ports***](https://www.professormesser.com/network-plus/n10-008/n10-008-video/common-ports-n10-008/)
 ### List and describe the ports used for the following:
   * Telnet: Telecommunication network protocol, communicates over TCP port 23.
   * SSH: A more secure protocol, communicates over TCP port 22. 
