@@ -4,4 +4,4 @@ A server is a services that people access across a network.
 ### How does the way Windows Server receives updates differ from Windows Home and Pro?
 Windows server Can disable updates entirely through group policy
 ### Does Windows Server have different hardware requirements than Windows Home or Pro?
-They have similar hardware but the windows pro are more expensive
+They have similar hardware but the windows server are more expensive
