@@ -19,21 +19,21 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   
 <details><summary><h3>Code 201 - Foundations of Software Development</h3></summary>
 <oi>
-  <li><a href="/ops-201/Lab 01.md">Lab 01</a></li>
-  <li><a href="/ops-201/Lab 02.md">Lab 02</a></li>
-  <li><a href="/ops-201/Lab 03.md">Lab 03</a></li>
-  <li><a href="/ops-201/Lab 04.md">Lab 04</a></li>
-  <li><a href="/ops-201/Lab 05.md">Lab 05</a></li>
-  <li><a href="/ops-201/Lab 06.md">Lab 06</a></li>
-  <li><a href="/ops-201/Lab 07.md">Lab 07</a></li>
-  <li><a href="/ops-201/Lab 08.md">Lab 08</a></li>
-  <li><a href="/ops-201/Lab 09.md">Lab 09</a></li>
-  <li><a href="/ops-201/Lab 10.md">Lab 10</a></li>
-  <li><a href="/ops-201/Lab 11.md">Lab 11</a></li>
-  <li><a href="/ops-201/Lab 12.md">Lab 12</a></li>
-  <li><a href="/ops-201/Lab 13.md">Lab 13</a></li>
-  <li><a href="/ops-201/Lab 14.md">Lab 14</a></li>
-  <li><a href="/ops-201/Lab 14p2.md">Lab 14p2</a></li>
+  <li><a href="/ops-201/Backup Your System.md">Backup Your System</a></li>
+  <li><a href="/ops-201/Dev Tools.md">Dev Tools</a></li>
+  <li><a href="/ops-201/Issue tracking system.md">Issue tracking system</a></li>
+  <li><a href="/ops-201/Troubleshooting Techniques.md">Troubleshooting Techniques</a></li>
+  <li><a href="/ops-201/Windows Command Line Tools.md">Windows Command Line Tools</a></li>
+  <li><a href="/ops-201/Windows Security Center.md">Windows Security Center</a></li>
+  <li><a href="/ops-201/OS Upgrade and Remote Access.md">OS Upgrade and Remote Access</a></li>
+  <li><a href="/ops-201/System Log Analysis, Registry, Control Panel.md">System Log Analysis, Registry, Control Panel</a></li>
+  <li><a href="/ops-201/Workstation Deployment SOP.md">Workstation Deployment SOP</a></li>
+  <li><a href="/ops-201/Imaging, Backup, and Recovery.md">Imaging, Backup, and Recovery</a></li>
+  <li><a href="/ops-201/Data Restoration, Startup Repair, and Secure Disposal.md">Data Restoration, Startup Repair, and Secure Disposal</a></li>
+  <li><a href="/ops-201/Virtualizing a Router with pfSense.md">Virtualizing a Router with pfSense</a></li>
+  <li><a href="/ops-201/Cloud Virtualization with AWS.md">Cloud Virtualization with AWS</a></li>
+  <li><a href="/ops-201/Malware Remediation Tools and Techniques.md">Malware Remediation Tools and Techniques</a></li>
+  <li><a href="/ops-201/Psychological Safety.md">Psychological Safety</a></li>
   <li><a href="/ops-201/prompt-engineering.md">Prompt Engineering</a></li>
   </oi>
   </details>
