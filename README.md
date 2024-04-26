@@ -62,7 +62,7 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
 
 <details><summary><h3>Code 401 - Advanced Software Development</h3></summary>
 <oi>
-  <li><a href="/ops-401/lab01.md">Lab 01</a></li>
+  <li><a href="/ops-401/Prep: Practice in the Terminal.md">Practice in the Terminal</a></li>
   <li><a href="/ops-401/lab02.md">Lab 02</a></li>
   <li><a href="/ops-401/lab03.md">Lab 03</a></li>
   <li><a href="/ops-401/lab04.md">Lab 04</a></li>
