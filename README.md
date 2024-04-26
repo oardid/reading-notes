@@ -5,10 +5,8 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
 
 <details>
   <summary>Code 201 - Foundations of Software Development</summary>
-  <p>
-   + A
-    + B
-  </p>
+  * Item A
+  * Item B
 </details>
 
 
