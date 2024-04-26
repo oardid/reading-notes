@@ -5,7 +5,7 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
 
 <details><summary><h3>Code 102 - Intro to Software Development</h3></summary>
 <oi>
-  <li><a href="/ops-102/What is a Computer? .md">What is a Computer?</a></li>
+  <li><a href="/ops-102/What is a Computer?.md">What is a Computer?</a></li>
   <li><a href="/ops-102/Build a Computer.md">Build a Computer</a></li>
   <li><a href="/ops-102/Startup Sequences and BIOS.md">Startup Sequences and BIOS</a></li>
   <li><a href="/ops-102/Installing Ubuntu Linux.md">Installing Ubuntu Linux</a></li>
