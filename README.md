@@ -15,7 +15,7 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   <li><a href="/ops-102/Virtualization of Windows OS.md">Virtualization of Windows OS</a></li>
   <li><a href="/ops-102/Command Line Interface.md">Command Line Interface</a></li>
   </oi>
-  </details>
+</details>
   
 <details><summary><h3>Code 201 - Foundations of Software Development</h3></summary>
 <oi>
@@ -36,7 +36,6 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   <li><a href="/ops-201/Psychological Safety.md">Psychological Safety</a></li>
   <li><a href="/ops-201/prompt-engineering.md">Prompt Engineering</a></li>
   </oi>
-  </details>
 </details>
 
 <details><summary><h3>Code 301 - Intermediate Software Development</h3></summary>
@@ -57,7 +56,6 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   <li><a href="/ops-301/Group Policy.md">Group Policy</a></li>
   <li><a href="/ops-301/Diversity & Inclusion in the Tech Industry.md">Diversity & Inclusion in the Tech Industry</a></li>
   </oi>
-  </details>
 </details> 
 
 <details><summary><h3>Code 401 - Advanced Software Development</h3></summary>
@@ -72,5 +70,4 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   <li><a href="/ops-401/lab08.md">Lab 08</a></li>
   <li><a href="/ops-401/lab09.md">Lab 09</a></li>
   </oi>
-  </details>
 </details>
