@@ -13,3 +13,7 @@
 * Risk assessment: Categorize, classify and evaluate assets, as well as identify threats and vulnerabilities
 * Risk analysis: Both qualitative and quantitative
 * Risk mitigation/response: Includes reducing or avoiding risk, transferring risk, and accepting or rejecting risk
+
+##### **Additional Resources:**
+##### [How to Become a Security Auditor](https://www.cybersecurityeducation.org/careers/security-auditor/)
+##### [How to use Cyber Security Evaluation Tool (CSET®) to assess Cyber Risk](https://www.youtube.com/watch?v=1PVC-fwnxp4)
