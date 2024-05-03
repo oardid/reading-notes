@@ -1,9 +1,9 @@
 # Reading Notes
-These reading notes, specifically designed for my cybersecurity course, involve in-depth exploration of articles related to various topics. By carefully analyzing each piece, I aim to grasp the author’s arguments, insights, and perspectives. These notes go beyond mere summaries they serve as thoughtful reflections and analyses, responding to thought provoking questions posed by the text. Through this process, I enhance my understanding of complex theories, dissect current events, and engage with philosophical dilemmas.
+These reading notes, specifically designed for my cybersecurity course, involve an in-depth exploration of articles related to various topics. By carefully analyzing each piece, I aim to grasp the author’s arguments, insights, and perspectives. These notes go beyond mere summaries they serve as thoughtful reflections and analyses, responding to thought-provoking questions posed by the text. Through this process, I enhance my understanding of complex theories, dissect current events, and engage with philosophical dilemmas.
 
 In simpler terms, these notes help me learn new cybersecurity topics by diving deep into articles and answering critical questions.
 
-<details><summary><h3>Code 102 - Intro to Software Development</h3></summary>
+<details><summary><h3>Ops 102 - Intro to Software Development</h3></summary>
 <oi>
   <li><a href="/ops-102/What is a Computer.md">What is a Computer?</a></li>
   <li><a href="/ops-102/Build a Computer.md">Build a Computer</a></li>
@@ -17,7 +17,7 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   </oi>
 </details>
   
-<details><summary><h3>Code 201 - Foundations of Software Development</h3></summary>
+<details><summary><h3>Ops 201 - Foundations of Software Development</h3></summary>
 <oi>
   <li><a href="/ops-201/Backup Your System.md">Backup Your System</a></li>
   <li><a href="/ops-201/Dev Tools.md">Dev Tools</a></li>
@@ -38,7 +38,7 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   </oi>
 </details>
 
-<details><summary><h3>Code 301 - Intermediate Software Development</h3></summary>
+<details><summary><h3>Ops 301 - Intermediate Software Development</h3></summary>
 <oi>
   <li><a href="/ops-301/Network Traffic Analysis with Wireshark.md">Network Traffic Analysis with Wireshark</a></li>
   <li><a href="/ops-301/Network scanning with NMAP.md">Network scanning with NMAP</a></li>
@@ -58,7 +58,7 @@ In simpler terms, these notes help me learn new cybersecurity topics by diving d
   </oi>
 </details> 
 
-<details><summary><h3>Code 401 - Advanced Software Development</h3></summary>
+<details><summary><h3>Ops 401 - Advanced Software Development</h3></summary>
 <oi>
   <li><a href="/ops-401/Prep: Practice in the Terminal.md">Prep: Practice in the Terminal</a></li>
   <li><a href="/ops-401/Prep: Prep Your Mindset.md">Prep: Prep Your Mindset</a></li>
