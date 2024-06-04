@@ -10,3 +10,6 @@ The use of Empire falls into the command and control (c2) step of the cyber kill
 * Stager: A stager is a snippet of code that allows our malicious code to be run via the agent on the compromised host.
 * Agent: An agent is a program that maintains a connection between your computer and the compromised host.
 * Module: These are what execute our malicious commands, which can harvest credentials and escalate our privileges as mentioned above.
+
+##### Bookmark and Review
+##### [Hacking with Empire – PowerShell Post-Exploitation Agent](https://www.hackingarticles.in/hacking-with-empire-powershell-post-exploitation-agent/)
