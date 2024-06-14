@@ -8,4 +8,4 @@ Cybersecurity primarily focuses on preventing and mitigating cybercrime by optim
 * Collection
 * Examination
 * Analysis
-* Presentation
+* Reporting
