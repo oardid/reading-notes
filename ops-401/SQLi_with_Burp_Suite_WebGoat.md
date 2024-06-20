@@ -1,7 +1,7 @@
 ## [Understanding SQL Injection, Identification and Prevention](https://www.varonis.com/blog/sql-injection-identification-and-prevention-part-1)
 
 ### What is SQL injection?
-It is a flaw that lets attackers execute arbitrary commands on a server
+SQL injection is a type of web application security vulnerability that occurs when an attacker is able to inject malicious SQL code into a web application's database. This allows the attacker to manipulate the database, extract sensitive data, or even take control of the entire database.
 ### Can you give an example of how a hacker could use SQL injection to gain unauthorized access?
 Suppose a web application has a login page that accepts user input for the username and password. The application uses a query like this to verify the credentials:
 ```
